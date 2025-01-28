@@ -1,6 +1,1 @@
-12 achieved 33 points at Level 1
-12 achieved 14 points at Level 2
-12 achieved -33 points at Level 3
-Ömer achieved 30 points at Level 1
-Ömer achieved 8 points at Level 2
-Ömer achieved -36 points at Level 3
+
